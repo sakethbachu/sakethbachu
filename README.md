@@ -1,5 +1,5 @@
 # About me
-* Hello guys, this is Saketh Bachu, just another deep learning enthusiast. I am third year undergraduate student at Visvesvaraya National Institute of Technology, Nagpur.
+* Hello guys, this is Saketh Bachu, just another deep learning enthusiast. I am third year undergraduate student at [Visvesvaraya National Institute of Technology, Nagpur](http://vnit.ac.in/).
 
 * The topics of my interest include: Deep learning, Computer vision, Image processing, and Mathematics.
 
