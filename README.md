@@ -1,3 +1,5 @@
+![alt text](https://github.com/sakethbachu/sakethbachu/blob/master/img/hw-04.png "Logo Title Text 1")
+
 # About me
 * Hello, this is Saketh Bachu, just another deep learning enthusiast. I am a third year undergraduate student at [Visvesvaraya National Institute of Technology, Nagpur](http://vnit.ac.in/). I am also a part of [IvLabs](https://www.ivlabs.in/) ( The Robotics and AI lab of VNIT ), this is where I fell in love with AI:heart_eyes:	
 
